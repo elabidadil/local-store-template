@@ -1,0 +1,12 @@
+/*# sourceMappingURL=style.css.map */
+.services .container .row .service {
+   cursor: pointer;
+}
+
+.services .container .row .service i {
+   transition: all .6s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.services .container .row .service:hover i {
+   background-color: #6c9283 !important;
+}
